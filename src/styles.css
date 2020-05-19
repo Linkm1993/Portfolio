@@ -1,0 +1,19 @@
+ul{
+    list-style: none;
+}
+
+.name, #title {
+    font-size: 230px;
+    margin-top: 0 !important;
+}
+
+.right{
+    text-align: right;
+}
+
+p, .contact, .tools, .languages {
+    font-size: 25px
+}
+h1, .journey {
+    font-size: 120px;
+}
